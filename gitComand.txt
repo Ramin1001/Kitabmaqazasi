@@ -15,3 +15,9 @@ git add . - butun fayllari ayriliqda elave edir
 git commit -m "Bu gunku qeydim" - gorulen ishi her hansi ad altinda qeydiyyata salinmasi
 git log - Umumi gorulen ishlerden cixarish etmek
 git status - hazirda neler var faylda
+
+git remote add origin https://github.com/Ramin1001/Kitabmaqazasi.git - localdan serverdekine baqlanmaq ucun
+git push -u origin master - lokaldakilari upload eliyir servere
+git push -f origin master - lokaldan upload eliyende alinmasa bunu yoxlamali
+git pull origin master - serverden locala atmaq icin
+git init - bashlamaq ucun
