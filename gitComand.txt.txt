@@ -1,0 +1,7 @@
+1. git init
+2. deyishiklikleri edirem
+3. git add . komandasi ile deyishikliklermi izleme sistemine aliram
+4. git commit -m "etdiyim deyishiklikler haqqinda qeyd aliram"
+5. git log (daha evvel etdiyim ishleri gorebilirem)
+
+git status layihenin 
