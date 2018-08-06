@@ -21,3 +21,4 @@ git push -u origin master - lokaldakilari upload eliyir servere
 git push -f origin master - lokaldan upload eliyende alinmasa bunu yoxlamali
 git pull origin master - serverden locala atmaq icin
 git init - bashlamaq ucun
+git remote - 
